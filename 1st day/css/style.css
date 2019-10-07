@@ -1,0 +1,102 @@
+body {
+	color: black;
+	background-image: linear-gradient(to bottom right, red, orange, yellow, green, blue, purple); 
+}
+
+h1 {
+	font-size: 40px;
+	font-family: Comic Sans MS;
+
+}
+.img1{height:300px
+	width:200px;}
+
+p {
+	font-family: Comic Sans MS;
+	font-size: 20px;
+}
+
+h3 {
+	font-size: 20px;
+	font-family: Comic Sans MS;
+
+}
+h4 {
+	font-size: 40px;
+	font-family: Comic Sans MS;
+
+}
+
+.image2{height:300px
+	width:200px;}
+
+p {
+	font-family: Comic Sans MS;
+	font-size: 20px;}
+
+
+.image3{height:200px
+	width:300px;}
+
+p {font-family: Comic Sans MS;
+	font-size: 20px;	
+}
+
+.image4{height:300px;
+	width:500px;} 
+
+p {font-family: Comic Sans MS;
+	font-size: 20px;	
+}
+
+{font-family: Comic Sans MS;
+	font-size: 20px;	
+}
+.image5{
+	height:300px;	
+	width:500px;}
+.image6{
+	height:300px;
+	width:400px;
+}
+.image7{
+	height:300px;
+	width:500px;
+}
+.image8{	
+	height:300px;
+	width:400px;
+
+}
+.image9{	
+	height:300px;
+	width:400px;
+
+}
+.image10{	
+	height:200px;
+	width:600px;
+
+}
+
+.image11{	
+	height:300px;
+	width:400px;
+
+}
+
+.image12{
+	height:300px;
+	width:400px;
+}
+.button{
+	font-family: Comic Sans MS;
+	font-size: 20px;
+	display:block;
+	color:black;
+	text-align:center
+	padding:8px 16px;
+	text-decoration: none;
+	cursor:pointer;
+
+}
