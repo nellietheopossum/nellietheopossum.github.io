@@ -89,6 +89,35 @@ p {font-family: Comic Sans MS;
 	height:300px;
 	width:400px;
 }
+
+.image13{
+	height:300px;
+	width:400px;
+}
+
+.image14{
+	height:300px;
+	width:350px;
+}
+
+.image15{
+	height:300px;
+	width:400px;
+}
+.image16{
+	height:300px;
+	width:500px;
+}
+
+.image17{
+	height:300px;
+	width:400px;
+}
+
+.image18{
+	height:300px;
+	width:500px;
+}
 .button{
 	font-family: Comic Sans MS;
 	font-size: 20px;
@@ -99,4 +128,7 @@ p {font-family: Comic Sans MS;
 	text-decoration: none;
 	cursor:pointer;
 
+}
+a{
+	color:white;
 }
